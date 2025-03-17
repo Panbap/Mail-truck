@@ -1,5 +1,5 @@
 # Mail-truck
-Site: [https://panbap.github.io/Sinhnhat/](https://panbap.github.io/Mail-truck/)
+Site: [https://panbap.github.io/Mail-truck/](https://panbap.github.io/Mail-truck/)
 
 ## Table of Contents
 1. [Giới Thiệu](#giới-thiệu)
